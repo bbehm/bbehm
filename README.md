@@ -3,7 +3,7 @@
   <p align="center">I'm a coding and business student with a strong interest in <b>data and AI</b>. I am currently studying coding at Hive Helsinki and Information Systems and Data Analytics at Aalto University school of Business. At the moment I am improving my skills in:</p>
   <p align="center">🎲 <b>Algorithms</b> in C 🎲</p>
   <p align="center">🐍 <b>Machine Learning</b> with Python 🐍</p>
-  <p align="center">🔎 <b>Data Analysis</b> with MySQL 🔎</p>
+  <p align="center">🔎 <b>Data Analysis</b> with MySQL and Python 🔎</p>
 </ul>
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32" height="32" title="c"/>
