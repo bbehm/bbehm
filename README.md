@@ -5,7 +5,7 @@
   <p align="center">🐍 <b>Machine Learning</b> with Python 🐍</p>
   <p align="center">🔎 <b>Data Analysis</b> with MySQL and Python 🔎</p>
 </ul>
-<h2 align="center">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32" height="32" title="c"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" width="32" height="32" title="python"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="32" height="32" title="javascript"/>
@@ -14,7 +14,12 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" width="32" height="32" title="html"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="32" height="32" title="css"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="32" height="32" title="mysql"/>
+</p>
+
+<h2 align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbehm&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 </h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bianca-behm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
