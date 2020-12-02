@@ -1,10 +1,8 @@
 
 <h2 align="center"> Hi there, I'm Bianca! 👋</h2>
-  <p align="center">I'm a coding and business student with a strong interest in <b>data and AI</b>. I am currently studying coding at Hive Helsinki and Information Systems and Data Analytics at Aalto University school of Business. At the moment I am improving my skills in:</p>
-  <p align="center">🎲 <b>Algorithms</b> in C 🎲</p>
-  <p align="center">🐍 <b>Machine Learning</b> with Python 🐍</p>
-  <p align="center">🔎 <b>Data Analysis</b> with MySQL and Python 🔎</p>
-</ul>
+  <p align="center">I'm a coding and business student with a strong interest in <b>data and AI</b>. I am currently studying coding at Hive Helsinki and Information Systems and Data Analytics at Aalto University School of Business.</p>
+
+<!--
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="32" height="32" title="c"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" width="32" height="32" title="python"/>
@@ -15,7 +13,7 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="32" height="32" title="css"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="32" height="32" title="mysql"/>
 </h2>
-<!--
+
 <h2 align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbehm&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 </h2>
