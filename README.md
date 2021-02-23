@@ -1,6 +1,6 @@
 
 <h2 align="center"> Hi there, I'm Bianca! 👋</h2>
-  <p align="center">I'm a coding and business student with a strong interest in <b>data and AI</b>. I am currently studying coding at Hive Helsinki and Information Systems and Data Analytics at Aalto University School of Business.</p>
+  <p align="center">Software Engineer @ <a href="https://www.funzi.fi/">Funzi</a> // M.Sc. in Information Systems @ <a href="https://www.aalto.fi/en">Aalto University</a> // Previously @ <a href="https://www.hive.fi/en/">Hive Helsinki</a>  </p>
 
 <!--
 <h2 align="center">
