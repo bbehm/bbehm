@@ -1,6 +1,6 @@
 
 <h2 align="center"> Hi there, I'm Bianca! 👋</h2>
-  <p align="center">Software Engineer @ <a href="https://www.funzi.fi/">Funzi</a> // M.Sc. in Information Systems @ <a href="https://www.aalto.fi/en">Aalto University</a> // Previously @ <a href="https://www.hive.fi/en/">Hive Helsinki</a>  </p>
+  <p align="center">Software Engineer 🤓 // M.Sc. in Information Systems @ <a href="https://www.aalto.fi/en">Aalto University</a> // Previously @ <a href="https://www.hive.fi/en/">Hive Helsinki</a>  </p>
 
 <!--
 <h2 align="center">
