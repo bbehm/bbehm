@@ -1,6 +1,6 @@
 
 <h2 align="center"> Hi there, I'm Bianca! 👋</h2>
-  <p align="center">Software Engineer 🤓 // M.Sc. in Information Systems @ <a href="https://www.aalto.fi/en">Aalto University</a> // Previously @ <a href="https://www.hive.fi/en/">Hive Helsinki</a>  </p>
+  <p align="center">Software Engineer 🤓 </p>
 
 <!--
 <h2 align="center">
@@ -24,9 +24,6 @@
   </a>
   <a href="https://www.instagram.com/biancabehm/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
-  </a>
- <a href="https://twitter.com/biancabehm" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
   </a>
    <a href="mailto:biancaisabellabehm@gmail.com" mailto="biancaisabellabehm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
